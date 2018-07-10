@@ -1,0 +1,13 @@
+{
+    "name": "TimingUtils",
+	"version": "0.0.1"
+    "keywords": "pattern, arduino, timing",
+    "description": "Helpful utilities to organize multiple regular tasks in arduino projects",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/thni323/TimingUtils.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
