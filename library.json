@@ -9,5 +9,9 @@
         "url": "https://github.com/thni323/TimingUtils.git"
     },
     "frameworks": "arduino",
-    "platforms": "*"
+    "platforms": "*",
+	"dependencies": {
+		"name": "LinkedList",
+		"version": "https://github.com/ivanseidel/LinkedList.git"
+	}
 }
