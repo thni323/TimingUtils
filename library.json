@@ -1,16 +1,15 @@
 {
-    "name": "TimingUtils",
+	"name": "TimingUtils",
 	"version": "1.0.0",
-    "keywords": "pattern, arduino, timing",
-    "description": "Helpful utilities to organize multiple regular tasks in arduino projects",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/thni323/TimingUtils.git"
-    },
-	"dependencies": {
-		"name": "LinkedList",
-		"version": "~1.2.3"
+	"keywords": "pattern, arduino, timing, timer, process, task",
+	"description": "Helpful utilities to organize multiple regular tasks in arduino projects",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thni323/TimingUtils.git"
 	},
-    "frameworks": "arduino",
-    "platforms": "*"
+	"dependencies": {
+		"name": "LinkedList"
+	},
+	"frameworks": "arduino",
+	"platforms": "*"
 }
